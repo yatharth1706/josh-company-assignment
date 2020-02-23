@@ -449,6 +449,7 @@ h4{
 
 @media (max-width: 1205px){
 	.navbar>.container>.navlinks{
+		background: url(../images/main_bg.jpg);
 		position: absolute;
 		top:86px;
 		width: 100%;
